@@ -1,3 +1,4 @@
+
 # Fresher's Contest - FOSS@Amrita
 
 This test is meant for the people who are interested in joining the [FOSS@Amrita](https://github.com/amfoss) club.
@@ -50,9 +51,10 @@ We know that you all love Problem Solving, and have planned a special contest fo
 Oops, we have slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. May be you should try too (You guys are Problem-Solver's afterall). Untill then, you can proceed to solve the below challenge. :point_down:
 
 > BTW, remember that the Hackerrank challenge link always starts with the URL, https://www.hackerrank.com/
+---------------------------
+### 5.  Kim's Gift 
+Did you try to open the `hahahaha` file yet? It was left by the DRPK attacker last night, maybe it contains Kim's nuke or some chocolates for you. Who doesn't like chocolates?
 
-### 5.  Laughter Virus 
-Did you try to open the `hahahaha` file yet? It was left by the DRPK attacker last night, maybe it contains Kim's nuke or something useful for you. Why don't you try opening it up and tell us what's inside?
 > Help
 `file a` gives you the details about the file *a*
 `touch a` will create new file *a*
@@ -77,11 +79,13 @@ The task is simple, host a small website on GitHub pages saying that **SECRET_ME
 
 ---------------------------
 
-### 7.  Blog it!
+### 7.  Post it!
  We hope you all have a blog. You can write a blog post on your overall experience and how did you solve the tasks. Remember this is also a task but will be evaluated later. You can share the links in the Telegram group along with your status updates at the end of the day.
 
-### 8. Fill It Up!  
-Once you are done with the 7 tasks above, you must open an issue and fill the template.
+---------------------------
+### 8. Race it, Raise it!  
+Once you are done with the 7 tasks above, you are **required** to submit **all your work** which includes your code (or may be even screenshots) so that we can verify that you completed the tasks.
+To do that, you must raise an issue in the repository and fill the template.
 
 Here are some more rules (we know you are pro's, just be sure of these) -
 1.  Every individual should submit an  **ISSUE**  and fill that template, so that we can evaluate the test. Create a github repository with the name,  `tasks-amfoss`  and push all your codes and screenshots to the repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it public before you submit.
