@@ -6,11 +6,13 @@ Follow the below tasks and submit a Issue in this repository so that we can chec
 
 ## Base Rules
 
+**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named ```foss-tasks```, which will contain whatever you do.
+
 **Plagrism will not be entertained** - You are allowed to refer to any online portal, tutorials, forum-answers etc. but copying your code from your friends (or as such from any online source) is strictly forbidden. 
 
 **Note that Individuals can be disqualified from the test at the organisers' discretion.** Reasons might include but are not limited to breaking the competition rules, or other unsporting behaviour.
 
-## Tasks
+## The Tasks
 
 ### **0. Star all the [amFOSS](https://github.com/amfoss) repositories. :smiley:**
 Since you have made it here, we thought you would be interested in them.
@@ -92,4 +94,7 @@ Here are some more rules (we know you are pro's, just be sure of these) -
 2.  The  **ISSUE TEMPLATE**  must be strictly followed. A submission without following the template will considered as  **INVALID**and hence will not be evaluated.
 3.  Only a single issue has to be made for each individual, multiple submissions will not be considered.
 
-Thank You for participating in the contest. We would be happy if you could kindly also fill the [feedback form](https://goo.gl/forms/QeU76AlyOTODS0vt1) form too. 
+---------------------------
+
+Thank You for participating in the contest!
+We would be happy if you could kindly also fill the [feedback form](https://goo.gl/forms/QeU76AlyOTODS0vt1) form too. 
