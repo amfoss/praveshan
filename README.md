@@ -21,6 +21,8 @@ Follow the below tasks and submit a Issue in this repository so that we can chec
 
 1. Oswald and Weenie want their picture to be hanged on the wall but the photogragher is mad; he gave them a manipulated image. Can you hellp them correcting the image for them. Also they want a b&w image. So, make sure you keep happy by doing the changes. I know you are awesome and kindly help them - *Good Karma*. :)
 
+You can get the image by running the below command.
+
 ```bash
 $ curl -o oswald.png https://github.com/amfoss-freshers-test/test/blob/gh-pages/assets/oswald.png
 ```
@@ -45,12 +47,11 @@ We will be sending a mail to you all with the thread name, `FOSS@Amrita Freshers
 
 5. There is one file named, `hahahaha` in the assets folder. I suspect it as a virus. Why don't you try opening it up and tell us about it. 
 
-`file a` gives you the details about the file *a*
-`touch a` will create new file *a*
-`rmdir a` deletes directory *a*
-`mv a b` transfers the contents of file *a* to *b*
-`chgrp` changes the group ownership of files
-
+`file a` gives you the details about the file *a* </br>
+`touch a` will create new file *a* </br>
+`rmdir a` deletes directory *a* </br>
+`mv a b` transfers the contents of file *a* to *b* </br>
+`chgrp` changes the group ownership of files </br>
 more you can find at [CLI Commands](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
 
 6. Now comes the most interesting task of all. Wait, before starting I want to ask if you got the SECRET_MESSAGE.
@@ -62,7 +63,9 @@ else:
   SECRET_MESSAGE.search()
 ```
 
-The task is simple, host a small website on GitHub pages saying that **SECRET_MESSAGE is "###"** in a Level 3 Header. You can use README or HTML. We don't bother about design but who doesn't like good websites. :blush:
+The task is simple, host a small website on GitHub pages saying that **SECRET_MESSAGE is "###"** in a *Level 3 Header*. You can use README or HTML. We don't bother about design but who doesn't like good websites. :blush:
+
+> **Help**: [GitHub Pages](https://pages.github.com/)
 
 7. We hope you all have a blog. You can write a blog post on your overall experience and how did you solve the tasks. Remember this is also a task but will be evaluated later. You can share the links in the Telegram group along with your status updates at the end of the day.
 
