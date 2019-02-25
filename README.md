@@ -1,15 +1,15 @@
 # Fresher's Contest - FOSS@Amrita
 
 This test is meant for the people who are interested in joining the [FOSS@Amrita](https://github.com/amfoss) club.
-Follow the below tasks and submit a Issue in this repository so that we can check your progress among all the people.
+Follow the below tasks and submit an Issue in this repository so that we can check your progress among all the people.
 
 ## Base Rules
 
-**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named `tasks-amfoss` which will contain whatever work you do for the test. Push all your codes and screenshots to the repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it _public_ before you submit.
+**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out a solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named `tasks-amfoss` which will contain whatever work you do for the test. Push all your codes and screenshots to the repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it _public_ before you submit.
 
-**Plagrism will not be entertained** - You are allowed to refer to any online portal, tutorials, forum-answers etc. but copying your code from your friends (or as such from any online source) is strictly forbidden. 
+**Plagiarism will not be entertained** - You are allowed to refer to any online portal, tutorials, forum-answers etc. but copying your code from your friends (or as such from any online source) is strictly forbidden. 
 
-**Note that Individuals can be disqualified from the test at the organisers' discretion.** Reasons might include but are not limited to breaking the competition rules, or other unsporting behaviour.
+**Note that Individuals can be disqualified from the test at the organizers' discretion.** Reasons might include but are not limited to breaking the competition rules, or other unsporting behaviors.
 
 ## The Tasks
 
@@ -19,13 +19,13 @@ Since you have made it here, we thought you would be interested in them.
 
 > You should probably try this - https://github.com/amfoss/star-me
 
-> *PAUSE*: I know you have already starred this repository, but why don't you fork it too. I think you know about fork. If not, please see the top right side and click on the fork button and select the user. That's it! You are awesome. You just forked a repository. Keep on going. :+1:
+> *PAUSE*: I know you have already starred this repository, but why don't you fork it too. I think you know about the fork. If not, please see the top right side and click on the fork button and select the user. That's it! You are awesome. You just forked a repository. Keep on going. :+1:
 
 ---------------------------
 
 ### 1.  We Want YOU to Introduce :grinning:
 
-Vipin Pavithran, the founder and chief mentor of the club, as well as others in the club are excited to welcome you on-board! Why don't you write us an email addressing them all. Checkout your email, you must have recieved a mail under the thread name, `FOSS@Amrita - Freshers Introduction Mail`.  Send in a mail replying the thread, which answers the following -
+Vipin Pavithran, the founder and chief mentor of the club, as well as others in the club,  are excited to welcome you onboard! Why don't you write us an email addressing them all? Check out your email, you must have received a mail under the thread name, `FOSS@Amrita - Freshers Introduction Mail`.  Send in a mail replying the thread, which answers the following -
 
    - About You
    - What according to you is FOSS@Amrita?
@@ -37,7 +37,7 @@ Vipin Pavithran, the founder and chief mentor of the club, as well as others in 
 
 ### 2. Oswald and his Foolish Photographer
 
-Oswald and Weenie want their picture to be hanged on the wall, but their foolish photograher he gave them a manipulated image. Can you help them to fix it? Byw, they also wanted it to be a Grayscale image. So, get's started  and go earn some *Good Karma*. :)
+Oswald and Weenie want their picture to be hanged on the wall, but their foolish photographer he gave them a manipulated image. Can you help them to fix it? Btw, they also wanted it to be a Grayscale image. So, gets started and earn some *Good Karma*. :)
 
 You will get the picture by running this below command.
 
@@ -45,13 +45,13 @@ You will get the picture by running this below command.
 $ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/test/blob/gh-pages/assets/oswald.png
 ```
 
-> **Hint** : You can refer to https://automatetheboringstuff.com/chapter17/
+> **Hint**: You can refer to https://automatetheboringstuff.com/chapter17/
 
 ---------------------------
 
 ### 3.  Correct your Emails
 
-Last night, someone from DRPK had sneaked into our system, and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in, and want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead  and correct *your* email. Create a branch named `#<1>-<email>-fix` and send a PR. Remember to have a meaningful commit messsage, ofc. :grin:
+Last night, someone from DRPK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#<1>-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
 
 > **Help**: [Git Branch](https://www.git-scm.com/docs/git-branch/1.7.10), [Pull Requests](https://help.github.com/en/articles/about-pull-requests)
 
@@ -59,8 +59,8 @@ Last night, someone from DRPK had sneaked into our system, and manipulated all o
 
 ### 4.  Here is an exciting Contest!
 
-We know that you all love Problem Solving, and have planned a special contest for you! Are you ready?  
-Oops, we have slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. May be you should try too (You guys are Problem-Solver's afterall). Untill then, you can proceed to solve the below challenge. :point_down:
+We know that you all love Problem Solving, and we have planned a special contest for you! Are you ready?  
+Oops, we have a slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. Maybe you should try too (You guys are Problem-Solver's after all). Until then, you can proceed to solve the below challenges. :point_down:
 
 > BTW, remember that the Hackerrank challenge link always starts with the URL, https://www.hackerrank.com/
 
@@ -107,12 +107,12 @@ We hope you all have a blog. You can write a blog post on your overall experienc
 
 ### 8. Race it, Raise it!  
 
-Once you are done with the 7 tasks above, you are **required** to submit **all your work** which includes your code (or may be even screenshots) so that we can verify that you completed the tasks.
+Once you are done with the 7 tasks above, you are **required** to submit **all your work** which includes your code (or maybe even screenshots) so that we can verify that you completed the tasks.
 To do that, you must raise an issue in the repository and fill the template.
 
 Here are some more rules (we know you are pro's, just be sure of these) -
-1.  Every individual should submit an  **ISSUE**  and fill that template, so that we can evaluate the test. 
-2.  The  **ISSUE TEMPLATE**  must be strictly followed. A submission without following the template will considered as  **INVALID**and hence will not be evaluated.
+1.  Every individual should submit an **ISSUE** and fill that template so that we can evaluate the test. 
+2.  The **ISSUE TEMPLATE** must be strictly followed. A submission without following the template will be considered as  **INVALID** and hence will not be evaluated.
 3.  Only a single issue has to be made for each individual, multiple submissions will not be considered.
 
 ---------------------------
