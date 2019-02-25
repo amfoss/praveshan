@@ -1,4 +1,7 @@
 **Before you start, please follow this format for your issue title**:  
+
+### TITLE OF THE ISSUE: Just your Roll Number in the format U4CSE16508
+
 _Please complete all applicable._
 
 
@@ -6,6 +9,7 @@ _Please complete all applicable._
 
 - **Name**:
 - **Repository Link**: _Provide us the link to your code_
+- **Department/Section**:
 
 _Put `done` if you complete the task and provide proof (link to the screenshot or code), if asked for._
 
@@ -29,3 +33,6 @@ _Put `done` if you complete the task and provide proof (link to the screenshot o
 - [ ] You have provided all the information correctly.
 - [ ] You accept that you were not part of any plagarism.
 - [ ] You have submitted the feedback.
+
+
+*NOTE: You can remove the unneccessary lines.*
