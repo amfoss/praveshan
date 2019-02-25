@@ -70,7 +70,9 @@ Oops, we have a slight problem! We have lost the link generated in the morning a
 
 Did you try to open the `hahahaha` file yet? It was left by the DRPK attacker last night, maybe it contains Kim's nuke or some chocolates for you. Who doesn't like chocolates?
 
-> Help
+Write a bash script which does the whole thing, in the end.
+
+> **Help** </br>
 `file a` gives you the details about the file *a* </br>
 `touch a` will create new file *a* </br>
 `rmdir a` deletes directory *a* </br>
