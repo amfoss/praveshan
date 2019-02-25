@@ -51,7 +51,7 @@ $ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/blob/master/
 
 ### 3.  Correct your Emails
 
-Last night, someone from DRPK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#2-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
+Last night, someone from DPRK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#2-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
 
 See ISSUE [#2](https://github.com/amfoss/amfoss-freshers-test/issues/2)
 
@@ -70,7 +70,7 @@ Oops, we have a slight problem! We have lost the link generated in the morning a
 
 ### 5.  Kim's Gift 
 
-Did you try to open the `hahahaha` file yet? It was left by the DRPK attacker last night, maybe it contains Kim's nuke or some chocolates for you. Who doesn't like chocolates?
+Did you try to open the `hahahaha` file yet? It was left by the DPRK attacker last night, maybe it contains Kim's nuke or some chocolates for you. Who doesn't like chocolates?
 
 Write a bash script which does the whole thing, in the end.
 
