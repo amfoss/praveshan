@@ -1,7 +1,7 @@
 # Fresher's Contest - FOSS@Amrita
 
 This test is meant for the people who are interested in joining the [FOSS@Amrita](https://github.com/amfoss) club.
-Follow the below tasks and submit an Issue in this repository so that we can check your progress among all the people.
+Follow the below tasks and submit an ISSUE in this repository so that we can check your progress among all the people.
 
 ## Base Rules
 
@@ -37,12 +37,12 @@ Vipin Pavithran, the founder and chief mentor of the club, as well as others in 
 
 ### 2. Oswald and his Foolish Photographer
 
-Oswald and Weenie want their picture to be hanged on the wall, but their foolish photographer he gave them a manipulated image. Can you help them to fix it? Btw, they also wanted it to be a Grayscale image. So, gets started and earn some *Good Karma*. :)
+Oswald and Weenie want their picture to be hanged on the wall, but their foolish photographer he gave them a manipulated image. Can you help them to fix it? Btw, they also wanted it to be a Grayscale image. So, get started and earn some *Good Karma*. :)
 
 You will get the picture by running this below command.
 
 ```bash
-$ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/test/blob/gh-pages/assets/oswald.png
+$ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/blob/master/assets/oswald.png
 ```
 
 > **Hint**: You can refer to https://automatetheboringstuff.com/chapter17/
@@ -51,7 +51,9 @@ $ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/test/blob/gh
 
 ### 3.  Correct your Emails
 
-Last night, someone from DRPK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#<1>-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
+Last night, someone from DRPK had sneaked into our system and manipulated all of your emails in our records. We are unsure of the mistakes that might have crept in and we want you guys to fix them for us.  We host our records right here in this repository, in a markdown file in this repository. Go ahead and correct *your* email. Create a branch named `#2-<email>-fix` and send a PR. Remember to have a meaningful commit message, ofc. :grin:
+
+See ISSUE [#2](https://github.com/amfoss/amfoss-freshers-test/issues/2)
 
 > **Help**: [Git Branch](https://www.git-scm.com/docs/git-branch/1.7.10), [Pull Requests](https://help.github.com/en/articles/about-pull-requests)
 
@@ -60,7 +62,7 @@ Last night, someone from DRPK had sneaked into our system and manipulated all of
 ### 4.  Here is an exciting Contest!
 
 We know that you all love Problem Solving, and we have planned a special contest for you! Are you ready?  
-Oops, we have a slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. Maybe you should try too (You guys are Problem-Solver's after all). Until then, you can proceed to solve the below challenges. :point_down:
+Oops, we have a slight problem! We have lost the link generated in the morning and we have contacted the Police to find it. Maybe you should try too (You guys are problem-solvers after all). Until then, you can proceed to solve the below challenges. :point_down:
 
 > BTW, remember that the Hackerrank challenge link always starts with the URL, https://www.hackerrank.com/
 
@@ -103,6 +105,8 @@ The task is simple, host a small website on GitHub pages saying that **SECRET_ME
 
 We hope you all have a blog. You can write a blog post on your overall experience and how did you solve the tasks. Remember this is also a task but will be evaluated later. You can share the links in the Telegram group along with your status updates at the end of the day.
 
+You can update it later in the ISSUE submission.
+
 > **Reference**: You can have a look at some of the previous blog posts of the club members like https://kalidindiamitraja.wordpress.com/2018/10/25/sending-email-with-python/
 
 ---------------------------
@@ -117,6 +121,7 @@ Here are some more rules (we know you are pro's, just be sure of these) -
 2.  The **ISSUE TEMPLATE** must be strictly followed. A submission without following the template will be considered as  **INVALID** and hence will not be evaluated.
 3.  Only a single issue has to be made for each individual, multiple submissions will not be considered.
 
+> **Sample**: https://github.com/vchrombie/amfoss-freshers-test/issues/1
 ---------------------------
 
 Thank You for participating in the contest!
