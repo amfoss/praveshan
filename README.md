@@ -42,7 +42,7 @@ Oswald and Weenie want their picture to be hanged on the wall, but their foolish
 You will get the picture by running this below command.
 
 ```bash
-$ curl -o oswald.png https://github.com/amfoss/amfoss-freshers-test/blob/master/assets/oswald.png
+$ curl -o oswald.png https://raw.githubusercontent.com/amfoss/amfoss-freshers-test/master/assets/oswald.png
 ```
 
 > **Hint**: You can refer to https://automatetheboringstuff.com/chapter17/
