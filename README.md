@@ -1,6 +1,9 @@
 # Fresher's Contest - February 24, 2019
 
-This test is meant for the people who are interested in joining the [FOSS@Amrita](https://github.com/amfoss) club.
+
+**Participants** : First Years - Even Semester, 2022 Batch
+
+
 Follow the below tasks and submit an ISSUE in this repository so that we can check your progress among all the people.
 
 ## Base Rules
