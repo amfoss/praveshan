@@ -111,6 +111,7 @@ We hope you all have a blog. You can write a blog post on your overall experienc
 You can update it later in the ISSUE submission.
 
 > **Reference**: You can have a look at some of the previous blog posts of the club members like https://kalidindiamitraja.wordpress.com/2018/10/25/sending-email-with-python/
+https://anandinblog.wordpress.com/2018/09/10/dual-booting-ubuntu-with-windows/
 
 ---------------------------
 
@@ -124,7 +125,7 @@ Here are some more rules (we know you are pro's, just be sure of these) -
 2.  The **ISSUE TEMPLATE** must be strictly followed. A submission without following the template will be considered as  **INVALID** and hence will not be evaluated.
 3.  Only a single issue has to be made for each individual, multiple submissions will not be considered.
 
-> **Sample**: https://github.com/vchrombie/amfoss-freshers-test/issues/1
+> **Sample**: https://github.com/amfoss/Praveshan/issues/1
 ---------------------------
 
 Thank You for participating in the contest!
