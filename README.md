@@ -1,7 +1,7 @@
-# Fresher's Tasks - July 2018
+# Fresher's Tasks - July 2018  [ ARCHIVED ]
 
 
-**Participants** : First Years - Odd Semester, 2022 Batch [ ARCHIVED ]
+**Participants** : First Years - Odd Semester, 2022 Batch
 
 The following comprises of the set of tasks that you can try to complete to join FOSS@Amrita. It will help you in understanding the basics of various fields in CS, moreover it will help you in building confidence in reading and writing code. In the present world, learning to learn is one of the key skill one should develop which will help you grow. So, approach these problems with the to curiosity to learn and try to build your skills. 
 
@@ -25,28 +25,28 @@ You may encounter errors while installing Ubuntu, so keep a seperate copy of you
 Solve problems from Hackerrank and Codeforces in Python/C/C++ or any other programming language. We will be evaluating everyone’s code submissions, so please do not copy the code. Plagiarism is not the way to get into the club :)  Show us what you did and we’ll be happy with it. 
 
 Hackerrank:
-https://www.hackerrank.com/challenges/simple-array-sum/problem
-https://www.hackerrank.com/challenges/compare-the-triplets/problem
-https://www.hackerrank.com/challenges/diagonal-difference
-https://www.hackerrank.com/challenges/a-very-big-sum/problem/problem
-https://www.hackerrank.com/challenges/plus-minus/problem
-https://www.hackerrank.com/challenges/staircase/problem
-https://www.hackerrank.com/challenges/mini-max-sum/problem
-https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-https://www.hackerrank.com/challenges/time-conversion/problem
+- https://www.hackerrank.com/challenges/simple-array-sum/problem
+- https://www.hackerrank.com/challenges/compare-the-triplets/problem
+- https://www.hackerrank.com/challenges/diagonal-difference
+- https://www.hackerrank.com/challenges/a-very-big-sum/problem/problem
+- https://www.hackerrank.com/challenges/plus-minus/problem
+- https://www.hackerrank.com/challenges/staircase/problem
+- https://www.hackerrank.com/challenges/mini-max-sum/problem
+- https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+- https://www.hackerrank.com/challenges/time-conversion/problem
 
 Codeforces:
 Try: https://www.codechef.com/ide to run your solutions
-http://codeforces.com/problemset/problem/4/A 
-http://codeforces.com/problemset/problem/1/A
-http://codeforces.com/problemset/problem/71/A
-http://codeforces.com/problemset/problem/158/A
-http://codeforces.com/problemset/problem/118/A
-http://codeforces.com/problemset/problem/50/A
-http://codeforces.com/problemset/problem/231/A
-http://codeforces.com/problemset/problem/282/A
-http://codeforces.com/problemset/problem/96/A 
-http://codeforces.com/problemset/problem/112/A
+- http://codeforces.com/problemset/problem/4/A 
+- http://codeforces.com/problemset/problem/1/A
+- http://codeforces.com/problemset/problem/71/A
+- http://codeforces.com/problemset/problem/158/A
+- http://codeforces.com/problemset/problem/118/A
+- http://codeforces.com/problemset/problem/50/A
+- http://codeforces.com/problemset/problem/231/A
+- http://codeforces.com/problemset/problem/282/A
+- http://codeforces.com/problemset/problem/96/A 
+- http://codeforces.com/problemset/problem/112/A
 
 
 ### 2. CS50
@@ -98,14 +98,14 @@ Get familiar with Git commands by referring online resources. Push all your work
 ### 1. Python Source:                    
 - In this challenge, you are expected to find a string whose hash is similar to a given hash in the program. 
 - Which when passed as input to program produces the output "You are a Genius"
-- Download the (python code here)[https://drive.google.com/file/d/0B3sOPp4yzeLTdHZiazhmNFZ2VEE/view?usp=sharing]
+- Download the [python code here](https://drive.google.com/file/d/0B3sOPp4yzeLTdHZiazhmNFZ2VEE/view?usp=sharing)
 
 ### 2. Project Euler(for Math freaks):
-https://www.hackerrank.com/contests/projecteuler/challenges/euler001
-https://www.hackerrank.com/contests/projecteuler/challenges/euler002
-https://www.hackerrank.com/contests/projecteuler/challenges/euler003
-https://www.hackerrank.com/contests/projecteuler/challenges/euler004
-https://www.hackerrank.com/contests/projecteuler/challenges/euler005
+- https://www.hackerrank.com/contests/projecteuler/challenges/euler001
+- https://www.hackerrank.com/contests/projecteuler/challenges/euler002
+- https://www.hackerrank.com/contests/projecteuler/challenges/euler003
+- https://www.hackerrank.com/contests/projecteuler/challenges/euler004
+- https://www.hackerrank.com/contests/projecteuler/challenges/euler005
 
 ### 3. Bandit:
 Complete Bandit till level 10. Refer: http://overthewire.org/wargames/bandit/
