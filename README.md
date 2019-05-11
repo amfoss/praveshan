@@ -6,7 +6,7 @@ submissions and solutions.
 
 
 ##### Stats
-* **Next Edition**: TBA (Tentative - Summer 2019). 
+* **Next Edition**: To be announced (Tentative - Summer 2019). 
 * **Latest Edition**: [Fresher's Contest - February 2019](https://github.com/amfoss/Praveshan/tree/2019-Feb)
 
 ### How to Join FOSS@Amrita?
