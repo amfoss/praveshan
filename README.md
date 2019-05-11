@@ -1,4 +1,4 @@
-# Fresher's Contest - February 24, 2019
+# Fresher's Contest - February 24, 2019 [ ARCHIVED ]
 
 
 **Participants** : First Years - Even Semester, 2022 Batch
@@ -8,7 +8,7 @@ Follow the below tasks and submit an ISSUE in this repository so that we can che
 
 ## Base Rules
 
-**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out a solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named `tasks-amfoss` which will contain whatever work you do for the test. Push all your codes and screenshots to the repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it _public_ before you submit.
+**You are not allowed to use GUI-based navigation/operations like Editing, Unzipping, etc., but are excepted to find out a solution with your coding and commanding skills** - you are accountable to show us ```proof of work```, by creating your own repository named `tasks-amfoss` which will contain whatever work you do for the test. Push all your codes and screenshots to that repository. For avoiding malpractice, make your repository as  _private_  so that no one can take your code. Make it _public_ before you submit.
 
 **Plagiarism will not be entertained** - You are allowed to refer to any online portal, tutorials, forum-answers etc. but copying your code from your friends (or as such from any online source) is strictly forbidden. 
 
