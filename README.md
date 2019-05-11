@@ -59,6 +59,7 @@ you checkout them, and practice them. Solution sets to the selected tasks/proble
 
 |  Title | Date | Type | Contestants |
 |---|---|---|---|
-| [Fresher's Contest - February 2019](https://github.com/amfoss/Praveshan/tree/2019-Feb) |Feb 24, 2019| Contest | S2 | 
+| [Fresher's Contest - February 2019](https://github.com/amfoss/Praveshan/tree/2019-Feb) |Feb 24, 2019| Contest | S2 |
+| [Fresher's Tasks   - July 2018](https://github.com/amfoss/Praveshan/tree/2018-Jul)     |July 2018   | Tasks   | S1 |
 
 
