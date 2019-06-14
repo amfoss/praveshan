@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Praveshan](README.md)
+* [Introduction](README.md)
+* [Eligibility](eligibility.md)
+* [Contest Archive](contest-archive.md)
 
