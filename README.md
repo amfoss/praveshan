@@ -2,6 +2,8 @@
 
 Praveshan is the repository used manage contests and tasks for enthusiasts to join into FOSS@Amrita. This repository will be used to publish the tasks for joining the club, and it also houses the long challenge, past set of tasks, contests, submissions and solutions.
 
+{% page-ref page="eligibility.md" %}
+
 #### How to Join FOSS@Amrita?
 
 If you are excited about joining FOSS@Amrita, there are multiple ways through which you can get into the club : -
