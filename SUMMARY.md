@@ -15,7 +15,7 @@
 
 * [General Guidelines](selection/general-guidelines.md)
 * [Selection Process](selection/selection-process.md)
-* [Rules & Code of Condut](selection/rules-and-code-of-condut.md)
+* [Rules & Code of Conduct](selection/rules-and-code-of-conduct.md)
 * [Eligibility](selection/eligibility.md)
 
 ## Formats
@@ -26,7 +26,7 @@
 
 ## Contest Archive
 
-* [Contest Archive](contest-archive/contest-archive.md)
-* [Feb 2019 - Fresher's Challenge](contest-archive/feb-2019-freshers-challenge.md)
-* [July 2018 - Fresher's Tasks](contest-archive/july-2018-freshers-tasks.md)
+* [Contest Archive](contest-archive/contest-archive/README.md)
+  * [July 2018 - Fresher's Tasks](contest-archive/contest-archive/july-2018-freshers-tasks.md)
+  * [Feb 2019 - Fresher's Challenge](contest-archive/contest-archive/feb-2019-freshers-challenge.md)
 

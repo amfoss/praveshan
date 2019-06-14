@@ -1,6 +1,0 @@
-# Rules & Code of Condut
-
-
-
-
-
