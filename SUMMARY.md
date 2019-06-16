@@ -27,6 +27,7 @@
 ## Contest Archive
 
 * [Contest Archive](contest-archive/contest-archive/README.md)
-  * [July 2018 - Fresher's Tasks](contest-archive/contest-archive/july-2018-freshers-tasks.md)
   * [Feb 2019 - Fresher's Challenge](contest-archive/contest-archive/feb-2019-freshers-challenge.md)
+  * [October 2018 - Fresher's Tasks](contest-archive/contest-archive/october-2018-freshers-tasks.md)
+  * [July 2018 - Fresher's Tasks](contest-archive/contest-archive/july-2018-freshers-tasks.md)
 
