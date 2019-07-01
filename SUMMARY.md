@@ -5,6 +5,8 @@
 
 ## Live Contests
 
+* [Fresher's Workshop - 2019](live-contests/freshers-workshop-2019.md)
+
 ## Membership
 
 * [Goals](https://amfoss.gitbook.io/amfoss/membership/goals)
