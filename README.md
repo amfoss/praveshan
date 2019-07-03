@@ -10,10 +10,15 @@ description: >-
 
 If you are excited about joining FOSS@Amrita, there are multiple ways through which you can get into the club : -
 
-1. **Long Challenge** - You can \(at any point of time\) participate in the Long Challenge conducted by the club, and get selected for Praveshan Contest and join the club.
-2. **Lateral Entry through amFOSS Workshops & Contests** - We conduct hands-on workshops and contests throughout the year and you have an opportunity to get noticed and selected if you show keen interest and progress.
+### **1.  Long Challenge** 
 
-What are we waiting for? Go out there, participate and get noticed! 
+Students can \(at any point of time\) participate in the Long Challenge conducted by the club, and get selected for Praveshan Contest and join the club.
+
+### **2.  Lateral Entry through Workshops & Contests** 
+
+Students can enter via hands-on workshops and contests throughout the year and students have an opportunity to get noticed and selected if students show keen interest and progress.  Updates on upcoming workshops/events by the club can be received by following our social media channels.
+
+‌
 
 
 
