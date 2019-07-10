@@ -1,6 +1,6 @@
 # Long Challenge
 
-The long challenge is the first step to join FOSS@Amrita. Enthusiastic students are expected to complete the tasks in the long challenge on their own, and update about their progress daily in the channel. On seeing the student's progress and interest, the top students of the Long Challenge are invited to participate in the next Praveshan contest.
+The long challenge is the first step to join amFOSS. Enthusiastic students are expected to complete the tasks in the long challenge on their own, and update about their progress daily in the channel. On seeing the student's progress and interest, the top students of the Long Challenge are invited to participate in the next Praveshan contest.
 
 **How to Participate in the Long Challenge**
 
