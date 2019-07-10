@@ -6,6 +6,7 @@
 ## Live Contests
 
 * [Fresher's Workshop - 2019](live-contests/freshers-workshop-2019.md)
+* [Fresher Tasks](live-contests/fresher-tasks.md)
 
 ## Membership
 
