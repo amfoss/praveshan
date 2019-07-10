@@ -7,6 +7,7 @@
 
 * [Fresher's Workshop - 2019](live-contests/freshers-workshop-2019.md)
 * [Fresher Tasks](live-contests/fresher-tasks.md)
+* [Long Challenge](live-contests/long-challenge.md)
 
 ## Membership
 
@@ -18,8 +19,8 @@
 
 * [Selection Process](selection/selection-process.md)
 * [Rules & Code of Conduct](selection/rules-and-code-of-conduct.md)
-* [General Guidelines](selection/general-guidelines.md)
 * [Eligibility](selection/eligibility.md)
+* [General Guidelines](selection/general-guidelines.md)
 
 ## Formats
 
