@@ -8,9 +8,13 @@ description: >-
 
 ## How to Join FOSS@Amrita
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image.png)
 
 If you are excited about joining FOSS@Amrita, there are multiple ways to gain membership - 
+
+{% hint style="info" %}
+For latest updates, please follow us on our [instagram\(@amfoss.in\)](https://instagram.com/amfoss.in) & [facebook\(@amfoss.in\)](https://facebook.com/amfoss.in).
+{% endhint %}
 
 ### **I. For Freshers \(S1 & S2\)** 
 
@@ -24,7 +28,7 @@ Interested students are required to attempt to complete a list of given tasks. E
 Deadline : 11 August, 2019
 {% endhint %}
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 #### **b.  Fresher's Workshop/Contest**
 
@@ -34,7 +38,7 @@ The Fresher's workshop is a 6 week long program intended to equip anyone with th
 Status : **Registrations are not open yet - Stay Tuned** 
 {% endhint %}
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 ### II. For Others \(S3 and above\) 
 
@@ -43,6 +47,8 @@ Status : **Registrations are not open yet - Stay Tuned**
 Students can participate in the Long Challenge conducted by the club, get selected and join the club. For more details, refer Live Contests/Long Challenge.
 
 ####     
+
+![](.gitbook/assets/image%20%288%29.png)
 
 
 
