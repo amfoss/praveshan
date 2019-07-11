@@ -30,8 +30,6 @@ The Fresher's workshop is a 6 week long program intended to equip anyone with th
 Status : **Registrations are not open yet - Stay Tuned** 
 {% endhint %}
 
-### 
-
 ### II. For Others \(S3 and above\) 
 
 ####      Long Challenge
