@@ -8,7 +8,7 @@ description: >-
 
 ## How to Join FOSS@Amrita
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 If you are excited about joining FOSS@Amrita, there are multiple ways to gain membership - 
 
@@ -24,7 +24,7 @@ Interested students are required to attempt to complete a list of given tasks. E
 Deadline : 11 August, 2019
 {% endhint %}
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 #### **b.  Fresher's Workshop/Contest**
 
@@ -34,7 +34,7 @@ The Fresher's workshop is a 6 week long program intended to equip anyone with th
 Status : **Registrations are not open yet - Stay Tuned** 
 {% endhint %}
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ### II. For Others \(S3 and above\) 
 
