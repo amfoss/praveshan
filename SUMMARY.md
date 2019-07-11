@@ -18,7 +18,6 @@
 ## Selection
 
 * [Selection Process](selection/selection-process.md)
-* [Rules & Code of Conduct](selection/rules-and-code-of-conduct.md)
 * [Eligibility](selection/eligibility.md)
 * [General Guidelines](selection/general-guidelines.md)
 
