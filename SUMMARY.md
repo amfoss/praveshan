@@ -11,7 +11,7 @@
 
 ## Membership
 
-* [Goals](https://amfoss.gitbook.io/amfoss/membership/goals)
+* [Goals](https://amfoss.gitbook.io/amfoss/club/goals)
 * [Benefits](https://amfoss.gitbook.io/amfoss/membership/benefits)
 * [Frequently Asked Questions](https://amfoss.gitbook.io/amfoss/membership/frequently-asked-questions)
 
