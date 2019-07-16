@@ -1,4 +1,4 @@
-# Fresher Tasks
+# Fresher's Tasks 2019
 
 Freshers interested in joining the club by solving the tasks can do so by submitting their details in the following form - [https://forms.gle/cUSjcD3u7hSNAoio6](https://forms.gle/cUSjcD3u7hSNAoio6)
 
