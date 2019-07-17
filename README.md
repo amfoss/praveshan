@@ -34,7 +34,7 @@ Deadline : 11 August, 2019
 
 ### **b.  Fresher's Workshop/Contest**
 
-The Fresher's workshop is a 6 week long program intended to equip anyone with the fundamentals required to further build and develop their interest and expertise. **A background in computer science is NOT required for attending this workshop**. Among the participating students, motivated and interested students will be selected for membership interview. 
+The Fresher's workshop is a 2 week long program intended to equip anyone with the fundamentals required to further build and develop their interest and expertise. **A background in computer science is NOT required for attending this workshop**. Among the participating students, motivated and interested students will be selected for membership interview. 
 
 {% hint style="info" %}
 Status : **Registrations are not open yet - Stay Tuned** 
