@@ -1,4 +1,4 @@
-# Fresher's Tasks 2019
+# Freshers Tasks 2019
 
 Freshers interested in joining the club by solving the tasks can do so - 
 
