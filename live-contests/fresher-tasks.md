@@ -6,12 +6,14 @@ Freshers interested in joining the club by solving the tasks can do so -
 * Get the task document at the end of the form
 * Submit the tasks before or on 11th August, 2019
 
-These tasks have been made keeping students having some background in programming in mind, but can be attempted by absolute beginners as well.
+These tasks have been made keeping students having some background in programming in mind, but can be attempted by absolute beginners as well. Absolute beginners \(with no background in computer science\) may start with Task 10 - CS50 course \( refer the Task Document\)
 
 {% hint style="warning" %}
 Deadline for submitting the tasks:   **11 August, 2019**
 
 Please ****do not forget to check your mail regularly
+
+**NOTE - The registration form closes on July 24, 2019**
 {% endhint %}
 
 
