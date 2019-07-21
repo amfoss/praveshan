@@ -30,11 +30,13 @@ Interested students are required to attempt to complete a list of given tasks. E
 Deadline : 11 August, 2019
 {% endhint %}
 
-
+{% hint style="warning" %}
+**NOTE -  Form submissions will be closed on July 24, 2019.**
+{% endhint %}
 
 ### **b.  Fresher's Workshop/Contest**
 
-The Fresher's workshop is a 2 week long program intended to equip anyone with the fundamentals required to further build and develop their interest and expertise. **A background in computer science is NOT required for attending this workshop**. Among the participating students, motivated and interested students will be selected for membership interview. 
+The Fresher's workshop is a 2 week long program intended to equip anyone with the fundamentals required to further build and develop their interest and expertise. **A background in computer science is NOT required for attending this workshop**. 
 
 {% hint style="info" %}
 Status : **Registrations are not open yet - Stay Tuned** 
