@@ -31,7 +31,7 @@ Deadline : 11 August, 2019
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE -  Form submissions will be closed on July 24, 2019.**Status : **Registrations are not open yet - Stay Tuned** 
+**NOTE -  Form submissions will be closed on July 24, 2019.**
 {% endhint %}
 
 ## II. For Others \(S3 and above\) 
