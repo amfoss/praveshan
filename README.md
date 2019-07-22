@@ -13,7 +13,7 @@ description: >-
 If you are excited about joining FOSS@Amrita, there are multiple ways to gain membership - 
 
 {% hint style="info" %}
-For latest updates, please follow us on our [instagram\(@amfoss.in\)](https://instagram.com/amfoss.in) & [facebook\(@amfoss.in\)](https://facebook.com/amfoss.in).
+For latest updates, please follow us on our [instagram\(@amfoss.in\)](https://instagram.com/amfoss.in) & [facebook\(@amfoss.in\)](https://facebook.com/amfoss.in) pages.
 {% endhint %}
 
 ### \*\*\*\*
@@ -30,11 +30,11 @@ Interested students are required to attempt to complete a list of given tasks. E
 Deadline : 11 August, 2019
 {% endhint %}
 
+### **b.  Fresher's Workshop/Contest**
+
 {% hint style="warning" %}
 **NOTE -  Form submissions will be closed on July 24, 2019.**
 {% endhint %}
-
-### **b.  Fresher's Workshop/Contest**
 
 The Fresher's workshop is a 2 week long program intended to equip anyone with the fundamentals required to further build and develop their interest and expertise. **A background in computer science is NOT required for attending this workshop**. 
 
@@ -42,11 +42,11 @@ The Fresher's workshop is a 2 week long program intended to equip anyone with th
 Status : **Registrations are not open yet - Stay Tuned** 
 {% endhint %}
 
-\*\*\*\*
-
 ## II. For Others \(S3 and above\) 
 
 ###      Long Challenge
+
+\*\*\*\*
 
 Students can participate in the Long Challenge conducted by the club, get selected and join the club. For more details, refer[ Live Contests/Long Challenge.](https://join.amfoss.in/live-contests/freshers-workshop-2019)
 

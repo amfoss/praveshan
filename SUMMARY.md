@@ -6,8 +6,8 @@
 ## Live Contests
 
 * [Freshers Tasks 2019](live-contests/fresher-tasks.md)
-* [Freshers Workshop - 2019](live-contests/freshers-workshop-2019.md)
 * [Long Challenge](live-contests/long-challenge.md)
+* [Freshers Workshop - 2019](live-contests/freshers-workshop-2019.md)
 
 ## Membership
 
