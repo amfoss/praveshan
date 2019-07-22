@@ -7,7 +7,6 @@
 
 * [Freshers Tasks 2019](live-contests/fresher-tasks.md)
 * [Long Challenge](live-contests/long-challenge.md)
-* [Freshers Workshop - 2019](live-contests/freshers-workshop-2019.md)
 
 ## Membership
 
@@ -24,7 +23,6 @@
 ## Formats
 
 * [Long Challenge](formats/long-challenge.md)
-* [amFOSS Events/Workshops](formats/amfoss-events-workshops.md)
 * [Fresher's Contest](formats/freshers-contest.md)
 
 ## Contest Archive
