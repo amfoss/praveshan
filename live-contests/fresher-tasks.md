@@ -12,9 +12,13 @@ You are expected to try the tasks only on Ubuntu or whatever distribution of Lin
 Deadline for submitting the tasks:   **11 August, 2019**
 
 Please ****do not forget to check your mail regularly
-
-**NOTE - The registration form closes on July 24, 2019**
 {% endhint %}
+
+{% hint style="danger" %}
+**NOTE -  Form submissions are closed as of now . We are no longer accepting any submissions. Please reach to us at amritapurifoss@gmail.com if you have anything to say.**
+{% endhint %}
+
+## 
 
 
 

@@ -24,14 +24,16 @@ For latest updates, please follow us on our [instagram\(@amfoss.in\)](https://in
 
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview. ****
 
-{% hint style="success" %}
-**Status : Active - You can find the tasks in** [**Live Contests/Fresher Tasks**](https://join.amfoss.in/live-contests/fresher-tasks)\*\*\*\*
+{% hint style="danger" %}
+**Status : Closed.** 
 
-Deadline : 11 August, 2019
+**We are no longer accepting applications for tasks submission. Please reach out to us at** amritapurifoss@gmail.com**, if you have anything to say.**
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE -  Form submissions will be closed on July 24, 2019.**
+**The registered people can submit the tasks before the deadline.**
+
+Deadline : 11 August, 2019
 {% endhint %}
 
 ## II. For Others \(S3 and above\) 
