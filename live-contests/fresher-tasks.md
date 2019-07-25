@@ -15,7 +15,7 @@ Please ****do not forget to check your mail regularly
 {% endhint %}
 
 {% hint style="danger" %}
-**NOTE -  Form submissions are closed as of now . We are no longer accepting any submissions. Please reach to us at amritapurifoss@gmail.com if you have anything to say.**
+**NOTE -  Form submissions are closed as of now . We are no longer accepting any submissions. Please reach to us at** amritapurifoss@gmail.com **if you have anything to say.**
 {% endhint %}
 
 ## 
