@@ -2,13 +2,13 @@
 
 **Requirements**
 
-* You must be a current student of Amrita Vishwa Vidyapeetham, Amritapuri Campus.
-* You must be ready to devote yourself to the club, and ready to devote your time for the club, such as staying back everyday and working on holidays.
-* You must be willing to share and pass-on your knowledge with anyone, mentor your juniors, and do responsibilities and tasks assigned to you by the club.
-* You must strictly adhere to the code of conduct of the club.
+* You must be a current student at Amrita Vishwa Vidyapeetham, Amritapuri.
+* You must be ready to devote your time and effort to the club, such as staying back after classes everyday and working on holidays.
+* You must be willing to share and pass-on your knowledge with anyone, mentor your juniors and perform responsibilities/ tasks that are assigned to you.
+* You must strictly adhere to the Code of Conduct of the club.
 
 **Not Required**
 
-* You need not be a CSE Student.
-* You need not have any prior experience in Computer Science.
+* You need **not** be in a CS-related branch.
+* You need **not** have any prior experience in Computer Science.
 

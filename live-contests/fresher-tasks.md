@@ -1,28 +1,24 @@
-# Freshers Tasks 2019
+# Freshers Tasks 2019-20
 
-Freshers interested in joining the club by solving the tasks can do so - 
+Freshers interested in joining the club by solving tasks -
 
-* Submit your details on this form - [https://forms.gle/cUSjcD3u7hSNAoio6](https://forms.gle/cUSjcD3u7hSNAoio6)
-* Get the task document at the end of the form
-* Submit the tasks before or on 11th August, 2019
+**Task List -** [**https://docs.google.com/document/d/1ceRGjrSLH9kB\_ATYtDuOC6W\_GrGW1GTUyAnz9XrnRRI/edit?usp=sharing**](https://docs.google.com/document/d/1ceRGjrSLH9kB_ATYtDuOC6W_GrGW1GTUyAnz9XrnRRI/edit?usp=sharing)\*\*\*\*
 
-You are expected to try the tasks only on Ubuntu or whatever distribution of Linux you have installed as part of the first task.
+You are expected to try the tasks only on Ubuntu or whatever distribution of Linux you prefer as part of the first task.
 
-{% hint style="warning" %}
-Deadline for submitting the tasks:   **11 August, 2019**
+It is recommended to begin with Task 10 \(CS50\) if you do not have / or if you feel you aren't confident enough, and then move to the other tasks. 
 
-Please ****do not forget to check your mail regularly
-{% endhint %}
+### Submission Email
 
-{% hint style="danger" %}
-**NOTE -  Form submissions are closed as of now . We are no longer accepting any submissions. Please reach to us at** amritapurifoss@gmail.com **if you have anything to say.**
-{% endhint %}
+The submission mail must contain the following - 
 
-## 
+* GitHub Task Project Repository Link
+* Personal Blog Link
+* Blog Posts related to the Tasks \[ share your approach on how you solved the tasks in the blog posts \]
+
+The submission emails must be sent to **`amritapurifoss@gmail.com`**
+
+You may also mention incomplete tasks \(if any\). 
 
 
-
-These tasks have been made keeping students having some background in programming in mind, but can be attempted by absolute beginners as well.
-
-![](../.gitbook/assets/image%20%288%29.png)
 

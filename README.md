@@ -6,41 +6,39 @@ description: >-
 
 # Praveshan - Join amFOSS
 
-## How to Join FOSS@Amrita
+## How to join?
 
 ![](.gitbook/assets/image.png)
 
-If you are excited about joining FOSS@Amrita, there are multiple ways to gain membership - 
+There are multiple ways to gain membership - 
 
 {% hint style="info" %}
-For latest updates, please follow us on our [instagram\(@amfoss.in\)](https://instagram.com/amfoss.in) & [facebook\(@amfoss.in\)](https://facebook.com/amfoss.in) pages.
+For latest updates, please follow us on [Instagram](https://instagram.com/amfoss.in), [Facebook](https://facebook.com/amfoss.in) and[ Twitter](https://twitter.com/amfoss_in)
 {% endhint %}
 
-### \*\*\*\*
+## **I. For Freshers \(S2\)** 
 
-## **I. For Freshers \(S1/S2\)** 
+### **Freshers' Tasks** 
 
-### **Fresher's Tasks** 
+Interested students are required to attempt to complete a list of given tasks. 
 
-Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview. ****
+First evaluation will be done based on the performance in the tasks. 
 
-{% hint style="danger" %}
-**Status : Closed.** 
-
-**We are no longer accepting applications for tasks submission. Please reach out to us at** amritapurifoss@gmail.com**, if you have anything to say.**
+{% hint style="success" %}
+**For more details, see** [**Live Contests/Freshers Task**](https://join.amfoss.in/live-contests/fresher-tasks)**.**
 {% endhint %}
 
-{% hint style="warning" %}
-**The registered people can submit the tasks before the deadline.**
+Based on first evaluation, a project will be assigned with a stipulated time period.  Final evaluation will be based on the project. 
 
-Deadline : 11 August, 2019
-{% endhint %}
-
-## II. For Others \(S3 and above\) 
+## II. For Others \(S4 and above\) 
 
 ###      Long Challenge
 
-Students can participate in the Long Challenge conducted by the club, get selected and join the club. For more details, refer[ Live Contests/Long Challenge.](https://join.amfoss.in/live-contests/freshers-workshop-2019)
+Students can participate in the Long Challenge to join the club. 
+
+{% hint style="success" %}
+**For more details, refer** [**Live Contests/Long Challenge.**](https://join.amfoss.in/live-contests/long-challenge)\*\*\*\*
+{% endhint %}
 
 ![](.gitbook/assets/image%20%284%29.png)
 
