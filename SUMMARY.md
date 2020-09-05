@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Praveshan - Join amFOSS](README.md)
-* [About Club](https://amfoss.gitbook.io/amfoss/)
+* [About Club](https://know.amfoss.in/)
 
 ## Live Contests
 
