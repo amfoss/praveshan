@@ -16,19 +16,15 @@ There are multiple ways to gain membership -
 For latest updates, please follow us on [Instagram](https://instagram.com/amfoss.in), [Facebook](https://facebook.com/amfoss.in) and[ Twitter](https://twitter.com/amfoss_in)
 {% endhint %}
 
-## **I. For Freshers \(S2\)** 
+## **I. For Freshers \(2020 Batch\)**
 
-### **Freshers' Tasks** 
+### **Fresher's Tasks** 
 
 Interested students are required to attempt to complete a list of given tasks. 
 
-First evaluation will be done based on the performance in the tasks. 
-
-{% hint style="success" %}
-**For more details, see** [**Live Contests/Freshers Task**](https://join.amfoss.in/live-contests/fresher-tasks)**.**
+{% hint style="info" %}
+**The Fresher's Tasks for 2020-24 batch is not public, yet. More details at** [**Live Contests/Freshers Task**](live-contests/freshers-tasks-2020-21.md)\*\*\*\*
 {% endhint %}
-
-Based on first evaluation, a project will be assigned with a stipulated time period.  Final evaluation will be based on the project. 
 
 ## II. For Others \(S4 and above\) 
 
