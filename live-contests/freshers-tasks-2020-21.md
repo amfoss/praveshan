@@ -1,4 +1,4 @@
-# Fresher's Tasks 2020-21
+# Fresher's Tasks 2020
 
 We are accepting registrations for the Fresher's Task 2020. 
 

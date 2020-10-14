@@ -5,7 +5,7 @@
 
 ## Live Contests
 
-* [Fresher's Tasks 2020-21](live-contests/freshers-tasks-2020-21.md)
+* [Fresher's Tasks 2020](live-contests/freshers-tasks-2020-21.md)
 * [Long Challenge](live-contests/long-challenge.md)
 
 ## Membership
