@@ -1,32 +1,28 @@
 ---
-description: >-
-  Everything you need to know to join India's Leading FOSS & Computer Science
-  Club.
+description: How to Join amFOSS
 ---
 
 # Praveshan - Join amFOSS
-
-## How to join?
-
-There are multiple ways to gain membership - 
-
-{% hint style="info" %}
-For latest updates, please follow us on [Instagram](https://instagram.com/amfoss.in), [Facebook](https://facebook.com/amfoss.in) and[ Twitter](https://twitter.com/amfoss_in)
-{% endhint %}
 
 ## **I. For Freshers \(2020 Batch\)**
 
 ### **Fresher's Tasks** 
 
+This is for students who joined Amritapuri in 2020.
+
 Interested students are required to attempt to complete a list of given tasks. 
 
-{% hint style="success" %}
-**To get the Fresher's Tasks for 2020, please fill out the form at** [**Live Contests/Freshers Task**](live-contests/freshers-tasks-2020-21.md)\*\*\*\*
+Please fill the form linked below. Note that **the Fresher's Task List will be emailed to you soon after you sign up.**
+
+{% hint style="info" %}
+**Registration Form Link:**    [**https://forms.gle/2RkKVAgjNr4QUiFS8**](https://forms.gle/2RkKVAgjNr4QUiFS8)\*\*\*\*
 {% endhint %}
 
-![](.gitbook/assets/gitbook1.png)
+**Please remember to check your email regularly.**
 
 ## II. For Others \(Non-S1 Batches: S4 and above\) 
+
+This is for students who joined Amritapuri **before 2020.**
 
 ###      Long Challenge
 
@@ -36,5 +32,9 @@ Students can participate in the Long Challenge to join the club.
 **For more details, refer** [**Live Contests/Long Challenge.**](https://join.amfoss.in/live-contests/long-challenge)\*\*\*\*
 {% endhint %}
 
-![](.gitbook/assets/image%20%284%29.png)
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
 
