@@ -20,7 +20,7 @@ Please fill the form linked below. Note that **the Fresher's Task List will be e
 
 **Please remember to check your email regularly.**
 
-## II. For Others \(Non-S1 Batches: S4 and above\) 
+## II. For Others \(Non-S1 Batches: S3 and above\) 
 
 This is for students who joined Amritapuri **before 2020.**
 
