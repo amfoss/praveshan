@@ -26,7 +26,7 @@ Interested students are required to attempt to complete a list of given tasks.
 
 ![](.gitbook/assets/gitbook1.png)
 
-## II. For Others \(S4 and above\) 
+## II. For Others \(Non-S1 Batches: S4 and above\) 
 
 ###      Long Challenge
 
