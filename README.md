@@ -8,8 +8,6 @@ description: >-
 
 ## How to join?
 
-![](.gitbook/assets/image.png)
-
 There are multiple ways to gain membership - 
 
 {% hint style="info" %}
@@ -22,9 +20,11 @@ For latest updates, please follow us on [Instagram](https://instagram.com/amfoss
 
 Interested students are required to attempt to complete a list of given tasks. 
 
-{% hint style="info" %}
-**The Fresher's Tasks for 2020-24 batch is not public, yet. More details at** [**Live Contests/Freshers Task**](live-contests/freshers-tasks-2020-21.md)\*\*\*\*
+{% hint style="success" %}
+**To get the Fresher's Tasks for 2020-24, please fill out the form at** [**Live Contests/Freshers Task**](live-contests/freshers-tasks-2020-21.md)\*\*\*\*
 {% endhint %}
+
+![](.gitbook/assets/gitbook1.png)
 
 ## II. For Others \(S4 and above\) 
 
