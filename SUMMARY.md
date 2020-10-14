@@ -9,9 +9,9 @@
 
 ## Membership
 
-* [Goals](https://amfoss.gitbook.io/amfoss/club/goals)
-* [Benefits](https://amfoss.gitbook.io/amfoss/membership/benefits)
-* [FAQ](https://amfoss.gitbook.io/amfoss/membership/frequently-asked-questions)
+* [Goals](https://know.amfoss.in/club/goals)
+* [Benefits](https://know.amfoss.in/membership/benefits)
+* [FAQ](https://know.amfoss.in/membership/frequently-asked-questions)
 
 ## Selection
 
