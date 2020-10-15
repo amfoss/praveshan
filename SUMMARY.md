@@ -19,11 +19,6 @@
 * [Eligibility](selection/eligibility.md)
 * [General Guidelines](selection/general-guidelines.md)
 
-## Formats
-
-* [Long Challenge](formats/long-challenge.md)
-* [Fresher's Contest](formats/freshers-contest.md)
-
 ## Contest Archive
 
 * [Contest Archive](contest-archive/contest-archive/README.md)
