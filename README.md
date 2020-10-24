@@ -10,15 +10,11 @@ description: How to Join amFOSS
 
 This is for students who joined Amritapuri in 2020.
 
-Interested students are required to attempt to complete a list of given tasks. 
+**We are no longer accepting registrations through the form.**
 
-Please fill the form linked below. Note that **the Fresher's Task List will be emailed to you soon after you sign up.**
-
-{% hint style="info" %}
-**Registration Form Link:**    [**https://forms.gle/2RkKVAgjNr4QUiFS8**](https://forms.gle/2RkKVAgjNr4QUiFS8)\*\*\*\*
+{% hint style="warning" %}
+Please email us at ****[**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com%20) ****to receive further instructions
 {% endhint %}
-
-**Please remember to check your email regularly.**
 
 ## II. For Others \(Non-S1 Batches: S3 and above\) 
 
