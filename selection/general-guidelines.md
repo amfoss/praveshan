@@ -16,7 +16,7 @@ Basic tasks like navigation, editing files and unzipping should not be done usin
 
 ## **Disqualification**
 
-Student\(s\) found violating any of the guidelines or displaying other unsporting behaviours will be subject to disqualification.
+Student\(s\) found violating any of the guidelines or displaying other unsporting behaviour will be subject to disqualification.
 
 **You must not use Windows/similar for completing the tasks ,** feel free to use any Linux distribution/ macOS  
 
