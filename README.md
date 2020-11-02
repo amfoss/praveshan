@@ -8,11 +8,13 @@ description: How to Join amFOSS
 
 This is for students who joined Amritapuri in 2020.
 
-**We are no longer accepting task registrations through the form.**
+Please complete as many tasks as possible from the Task Document linked below. Following the submission guidelines ****mentioned in the document, **please send us an email at** [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**.**
 
-{% hint style="success" %}
-Please email us at ****[**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com%20) ****to receive further instructions.
+{% hint style="info" %}
+Note that you need not do all of the tasks - try to do your best.
 {% endhint %}
+
+Link to the Task Document - [https://docs.google.com/document/d/1\_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing](https://docs.google.com/document/d/1_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing)
 
 ## For Others \(Non-S1 Batches: S3 and above\) 
 
