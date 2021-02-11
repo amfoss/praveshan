@@ -16,6 +16,8 @@ Note that you need not do all of the tasks - try to do your best.
 
 Link to the Task Document - [https://docs.google.com/document/d/1\_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing](https://docs.google.com/document/d/1_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing)
 
+**Please also note that there is no official Discord server that is maintained for recruitment anymore.**
+
 ## For Others \(Non-S1 Batches: S3 and above\) 
 
 This is for students who joined Amritapuri **before 2020.**
