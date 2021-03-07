@@ -24,7 +24,7 @@ Once you satisfy the above requirement, send a mail to [**amritapurifoss@gmail.c
 
 An example email of the perfect email:
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="info" %}
 Remember to include details of your branch, semester, and batch. 
@@ -56,7 +56,7 @@ Once you are done with the assigned projects and once you have achieved the requ
 
 For example, in our previous example, once you reply to the same email you sent before, it will look something like this:
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 You will receive a response from us within 10 days, followed by follow-ups which may include a video interview.
 
@@ -70,7 +70,7 @@ The guidelines along with deadlines will be specified in the mail that we send t
 
 Once you have solved a good number of issues, we will do a final evaluation as well as a possible video interview. 
 
-![Bill joins amFOSS](.gitbook/assets/image%20%2812%29.png)
+![Elon joins amFOSS](.gitbook/assets/image%20%2819%29.png)
 
 
 
