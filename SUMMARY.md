@@ -1,14 +1,10 @@
 # Table of contents
 
 * [Praveshan - Join amFOSS](README.md)
-* [About Club](https://know.amfoss.in/)
-
-## Live Contests
-
-* [Long Challenge](live-contests/long-challenge.md)
 
 ## Membership
 
+* [About Club](https://know.amfoss.in/)
 * [Goals](https://know.amfoss.in/club/goals)
 * [Benefits](https://know.amfoss.in/membership/benefits)
 * [FAQ](https://know.amfoss.in/membership/frequently-asked-questions)
