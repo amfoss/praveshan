@@ -16,9 +16,9 @@ Regardless of what semester you are in, you must start with Stage 0 and complete
 
 amFOSS Tasks for 2021: [https://docs.google.com/document/d/1\_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing](https://docs.google.com/document/d/1_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit?usp=sharing)
 
-There are a total of 10 main tasks + 5 additional tasks. 
+There are a total of 11 main tasks + 5 additional tasks. 
 
-You must complete **at least 9** of the 10 main tasks. You may attempt none to any number of additional tasks.
+You must complete **at least 9** of the 11 main tasks. You may attempt none to any number of additional tasks.
 
 Once you satisfy the above requirement, send a mail to [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com) **with the subject:** "amFOSS Tasks: &lt;YOUR FULL NAME&gt;" \(You may not receive a response if you don't send with the right subject\). 
 
