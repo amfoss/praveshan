@@ -6,11 +6,21 @@ description: How to Join amFOSS
 
 ## The Recruitment Pipeline
 
+### I. For Freshers \(S1\):
+
+Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
+
+You are required to fill and submit the below form, and you will get a set of tasks in your inbox. 
+
+[https://forms.gle/vSBwg7NtT1191znz6](https://forms.gle/vSBwg7NtT1191znz6)
+
+Deadline: 08 October 2021 ⏳
+
+### II. For Others \(S2 and above\):
+
 There are three stages for joining amFOSS. 
 
-Unlike in our previous version - with segregated tasks for freshers and others, we have now a unified pipeline for students of all years. 
-
-Regardless of what semester you are in, you must start with Stage 0 and complete each stage to proceed to the final evaluation
+You must start with Stage 0 and complete each stage to proceed to the final evaluation
 
 ### Stage 0: Tasks
 
