@@ -10,11 +10,18 @@ description: How to Join amFOSS
 
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
 
-You are required to fill and submit the below form, and you will get a set of tasks in your inbox. 
+You are required to fill and submit the below form. 
 
 [https://forms.gle/vSBwg7NtT1191znz6](https://forms.gle/vSBwg7NtT1191znz6)
 
-Deadline: 08 October 2021 ⏳
+**Deadline to fill the above registration form**: 08 October 2021 ⏳
+
+**Flow After Registration:**
+
+* After 8th October 2021, everyone who registered will receive an email with further instructions.
+* Once the tasks list is sent out, the deadline for completing the tasks will be around mid-November.
+* After the task submission, the work of each student will be evaluated and students would be called for an interview. 
+* Based on the tasks and interview performance we will be selecting students to join amFOSS.
 
 ### II. For Others \(S2 and above\):
 
