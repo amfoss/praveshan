@@ -10,15 +10,20 @@ description: How to Join amFOSS
 
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
 
-**Status : **<mark style="color:red;">**Closed**</mark>
+**Status :**<mark style="color:green;"> **Open Now**</mark>
 
-**We are no longer accepting applications for tasks submission. Please reach out to us at** [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**,  if you have anything to say**.
+Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview. 
+You are required to fill and submit the below form.
 
-**Flow For Registered Students:**
+[https://forms.gle/2YhKvDjM7CBVNtKF8](https://forms.gle/2YhKvDjM7CBVNtKF8)
+
+<!-- **We are no longer accepting applications for tasks submission. Please reach out to us at** [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**,  if you have anything to say**. -->
+
+<!-- **Flow For Registered Students:**
 
 * The deadline for completing the tasks is 20 November.
 * After the task submission, the work of each student will be evaluated and students would be called for an interview. 
-* Based on the tasks and interview performance we will be selecting students to join amFOSS.
+* Based on the tasks and interview performance we will be selecting students to join amFOSS. -->
 
 ### II. For Others (S2 and above):
 
