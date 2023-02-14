@@ -10,12 +10,9 @@ description: How to Join amFOSS
 
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
 
-**Status :**<mark style="color:green;"> **Open Now**</mark>
+**Status:** <mark style="color:red;">**Closed**</mark>
 
-Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview. 
-You are required to fill and submit the below form.
-
-[https://forms.gle/2YhKvDjM7CBVNtKF8](https://forms.gle/2YhKvDjM7CBVNtKF8)
+**We are no longer accepting applications for tasks submission. Please reach out to us at [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**.
 
 <!-- **We are no longer accepting applications for tasks submission. Please reach out to us at** [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**,  if you have anything to say**. -->
 
@@ -33,7 +30,7 @@ You must start with Stage 0 and complete each stage to proceed to the final eval
 
 ### Stage 0: Tasks
 
-If you are interested send an email to [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com) for recieving the amFOSS Tasks for 2021: 
+If you are interested send an email to [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com) for recieving the amFOSS Tasks for 2022-2023: 
 
 There are a total of 11 main tasks + 5 additional tasks. 
 
