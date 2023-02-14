@@ -34,9 +34,9 @@ If you are interested send an email to [**amritapurifoss@gmail.com**](mailto:amr
 
 There are a total of 11 main tasks + 5 additional tasks. 
 
-You must complete** at least 9** of the 11 main tasks. You may attempt none to any number of additional tasks.
+You must complete **at least 9** of the 11 main tasks. You may attempt none to any number of additional tasks.
 
-Once you satisfy the above requirement, send a mail to [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com) **with the subject: **"amFOSS Tasks: \<YOUR FULL NAME>" (You may not receive a response if you don't send with the right subject). 
+Once you satisfy the above requirement, send a mail to [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com) **with the subject:** "amFOSS Tasks: \<YOUR FULL NAME>" (You may not receive a response if you don't send with the right subject). 
 
 An example email of the perfect email:
 
@@ -52,7 +52,7 @@ This initiates the pipeline, your name will be added to our recruiting database.
 
 This will be the main thread for the entire recruitment pipeline. 
 
-Please **do not send another email **if you have any doubts - you can instead **just reply to the first mail** with your query.
+Please **do not send another email** if you have any doubts - you can instead **just reply to the first mail** with your query.
 
 Once you have sent the mail, you will receive a reply from us within 7 days.
 
