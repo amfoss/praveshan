@@ -10,9 +10,9 @@ description: How to Join amFOSS
 
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
 
-**Status:** <mark style="color:red;">**Closed**</mark>
+**Status:** <mark style="color:green;">**Coming soon**</mark>
 
-**We are no longer accepting applications for tasks submission. Please reach out to us at [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**.
+**You may reach out to us at [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**.
 
 <!-- **We are no longer accepting applications for tasks submission. Please reach out to us at** [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**,  if you have anything to say**. -->
 
