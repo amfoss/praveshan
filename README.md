@@ -8,9 +8,11 @@ description: How to Join amFOSS
 
 ### I. For Freshers (S1):
 
-Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
+**Status:** <mark style="color:green;">**Open**</mark>
 
-**Status:** <mark style="color:green;">**Coming soon**</mark>
+Interested students should fill out the Google form given below to register for Praveshan. You will be receiving a mail containing further information and a task list soon. These tasks that are the perfect way to discover your passion for computer science. You will have approximately 1 month to complete the tasks, after which your task submission will be evaluated and qualified people will be called for interview. The interview will conclude the Praveshan program and the results will be declared shortly after that.
+
+**Google Form:**<a style="color:black !important" href="https://forms.gle/VnQuQy8Y1aS2SERk7"> **https://forms.gle/VnQuQy8Y1aS2SERk7**</a>
 
 **You may reach out to us at [**amritapurifoss@gmail.com**](mailto:amritapurifoss@gmail.com)**.
 
