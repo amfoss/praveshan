@@ -5,8 +5,17 @@ description: How to Join amFOSS
 # Praveshan - Join amFOSS
 
 ## The Recruitment Pipeline
+### 2024 Batch Recruitment
+## Phase 1
 
-### I. For Freshers (S1):
+The amFOSS Praveshan for the year 2024 will commence soon. Interested students may start working on the tasks as soon as they are released. The tasks will be related to various fields in Computer Science. You’ll be required to submit your work by the time college starts. More details will be released along with the tasks. We look forward to your participation!
+
+
+## Phase 2
+
+The second phase of amFOSS Praveshan 2024 will start after the college onboarding. Further details will be provided later. 
+
+### I. For Freshers (S1 - Batch`23):
 Interested students are required to attempt to complete a list of given tasks. Evaluation will be done based on these tasks followed by an interview.
 
 **Status:** <mark style="color:red;">**Closed**</mark>
