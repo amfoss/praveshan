@@ -8,9 +8,9 @@ Greetings, fellow tech enthusiasts. Praveshan is the first step that you need to
 The goal of these tasks is not to alienate those without a background in computer science but to get yourself acquainted with the process of acquiring skills on your own, all tasks are designed in a way so as to promote active learning. You could take a look at the previous-year’s challenges to get a rough idea of the process, but of course, do not expect the same questions.
 # Pipelines
 There are 3 main pipelines to enter amFOSS, specifically:
-- [S0](#ii-for-pre-college-participants-s0) (for those wanting to get in before joining Amrita)
-- [S1](#iii-for-freshers-s1) (for freshers)
-- [S2+](#iv-for-others-s2-and-above) 
+- [S0](#ii.-for-pre-college-participants-s0) (for those wanting to get in before joining Amrita)
+- [S1](#iii.-for-freshers-s1) (for freshers)
+- [S2+](#iv.-for-others-s2-and-above) 
 
 Detailed below are a few of the guidelines and eligibility criteria that you should go through before applying to a certain pipeline.
 # Eligibility
