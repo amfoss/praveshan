@@ -2,17 +2,15 @@
 description: How to Join amFOSS
 ---
 
-# Praveshan - Join amFOSS
-
 # Introduction
 Greetings, fellow tech enthusiasts. Praveshan is the first step that you need to take to become a member at amFOSS. To get accepted, you will be required to complete a set of tasks that will test your problem-solving skills, determination, and most importantly - The ability to learn how to learn.
 
 The goal of these tasks is not to alienate those without a background in computer science but to get yourself acquainted with the process of acquiring skills on your own, all tasks are designed in a way so as to promote active learning. You could take a look at the previous-year’s challenges to get a rough idea of the process, but of course, do not expect the same questions.
 # Pipelines
 There are 3 main pipelines to enter amFOSS, specifically:
-- S0 (for those wanting to get in before joining Amrita)
-- S1 (for freshers)
-- S2+ 
+- [S0](#ii-for-pre-college-participants-s0) (for those wanting to get in before joining Amrita)
+- [S1](#iii-for-freshers-s1) (for freshers)
+- [S2+](#iv-for-others-s2-and-above) 
 
 Detailed below are a few of the guidelines and eligibility criteria that you should go through before applying to a certain pipeline.
 # Eligibility
@@ -25,7 +23,7 @@ Detailed below are a few of the guidelines and eligibility criteria that you sho
 - You Need Not be in a CS-related branch.
 - You Need Not have any prior experience in computer science.
 
-# Guidelines
+# I. Guidelines
 #### **Google is your best friend**
 Students are encouraged to learn how to use Google efficiently and try their best to be self-sufficient in solving the problems they face while doing the tasks. While mentors will be assigned to you during Praveshan to clear your doubts, self-reliance is an important skill that we look for in members.
 #### **Plagiarism and copy-pasting from AI are strictly prohibited**
@@ -50,6 +48,7 @@ A: Evaluation is based on a variety of factors including but not limited to: No 
 A: The tasks are designed to promote active learning and problem-solving. We have taken care to make sure that all of them can be completed with proper research, various domains will be touched upon like web dev, mobile dev, scraping, git, etc.
 
 **Q: Is there a specific timeline for completing Praveshan tasks?**
+
 A: The timelines are specific to each pipeline and hence will be updated on their respective pages.
 
 # II. For Pre-College Participants (S0):
