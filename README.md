@@ -55,17 +55,18 @@ A: The timelines are specific to each pipeline and hence will be updated on thei
 
 Exciting news for prospective candidates! You now have the opportunity to become part of amFOSS before the college term officially commences. To get started, interested individuals must attempt a series of designated tasks. Additionally, please note that the tasks will be rolling, providing ongoing opportunities for participation and assessment. Evaluation will be done based on the completion of these tasks, followed by an interview. 
 
-Fill out the form below, and you will be notified of further details via email.
-[https://forms.gle/sGDEU3NMTC58wYFU7](https://forms.gle/sGDEU3NMTC58wYFU7)
 
 **Please note, that your membership won’t be confirmed until seat allotment is finalised to Amrita Vishwa Vidyapeetham, Amritapuri.**
 
-Status: **Open**
+Status: **Closed**
 
 # III. For Freshers (S1):
 This is the second pipeline to join amFOSS, which will commence after the start of the college term. Interested students are expected to undertake a series of designated tasks (that consist of both technical and non-technical tasks). Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Status: **Closed**
+Fill out the form below, and you will be notified of further details via email.
+[https://forms.gle/sGDEU3NMTC58wYFU7](https://forms.gle/SdBPjr89cYkv4A9f8)
+
+Status: **Open**
 
 
 # IV. For Others (S2 and above):
