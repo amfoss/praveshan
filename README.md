@@ -70,7 +70,10 @@ Status: **Open**
 
 
 # IV. For Others (S2 and above):
-We will not be taking any more students from S2 and above. Those who have already submitted the task will be considered for evaluation and we will be reaching out to them soon.
+This is the third pipeline for joining amFOSS. Interested students will have to complete all designated tasks, after which they will be assigned a project to work on. Evaluation will be conducted based on the completion of these tasks and the project, followed by an interview.
 
-Status: **Closed**
+Fill out the form below, and you will be notified of further details via email.
+[https://docs.google.com/forms/d/e/1FAIpQLSfCZR0-itK-n2n5AzscvIda0HK572WKKXTP_fkW1pHOaB8KDg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfCZR0-itK-n2n5AzscvIda0HK572WKKXTP_fkW1pHOaB8KDg/viewform)
+
+Status: **Open**
 

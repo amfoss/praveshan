@@ -4,7 +4,7 @@
 
 ## Membership
 
-* [About Club](https://know.amfoss.in/)
+* [About Club](https://www.amfoss.in/about)
 * [Goals](https://know.amfoss.in/club/goals)
 * [Benefits](https://know.amfoss.in/membership/benefits)
 * [FAQ](https://know.amfoss.in/membership/frequently-asked-questions)
