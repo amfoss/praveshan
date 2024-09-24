@@ -23,7 +23,7 @@ Detailed below are a few of the guidelines and eligibility criteria that you sho
 - You Need Not be in a CS-related branch.
 - You Need Not have any prior experience in computer science.
 
-# I. Guidelines
+# Guidelines
 #### **Google is your best friend**
 Students are encouraged to learn how to use Google efficiently and try their best to be self-sufficient in solving the problems they face while doing the tasks. While mentors will be assigned to you during Praveshan to clear your doubts, self-reliance is an important skill that we look for in members.
 #### **Plagiarism and copy-pasting from AI are strictly prohibited**
@@ -51,7 +51,7 @@ A: The tasks are designed to promote active learning and problem-solving. We hav
 
 A: The timelines are specific to each pipeline and hence will be updated on their respective pages.
 
-# II. For Pre-College Participants (S0):
+# I. For Pre-College Participants (S0):
 
 Exciting news for prospective candidates! You now have the opportunity to become part of amFOSS before the college term officially commences. To get started, interested individuals must attempt a series of designated tasks. Additionally, please note that the tasks will be rolling, providing ongoing opportunities for participation and assessment. Evaluation will be done based on the completion of these tasks, followed by an interview. 
 
@@ -60,20 +60,14 @@ Exciting news for prospective candidates! You now have the opportunity to become
 
 Status: **Closed**
 
-# III. For Freshers (S1):
+# II. For Freshers (S1):
 This is the second pipeline to join amFOSS, which will commence after the start of the college term. Interested students are expected to undertake a series of designated tasks (that consist of both technical and non-technical tasks). Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Fill out the form below, and you will be notified of further details via email.
-[https://forms.gle/sGDEU3NMTC58wYFU7](https://forms.gle/SdBPjr89cYkv4A9f8)
-
-Status: **Open**
+Status: **Closed**
 
 
-# IV. For Others (S2 and above):
+# III. For Others (S2 and above):
 This is the third pipeline for joining amFOSS. Interested students will have to complete all designated tasks, after which they will be assigned a project to work on. Evaluation will be conducted based on the completion of these tasks and the project, followed by an interview.
 
-Fill out the form below, and you will be notified of further details via email.
-[https://docs.google.com/forms/d/e/1FAIpQLSfCZR0-itK-n2n5AzscvIda0HK572WKKXTP_fkW1pHOaB8KDg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfCZR0-itK-n2n5AzscvIda0HK572WKKXTP_fkW1pHOaB8KDg/viewform)
-
-Status: **Open**
+Status: **Closed**
 
